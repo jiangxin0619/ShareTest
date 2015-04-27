@@ -58,7 +58,6 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
         oks.setSite(getString(R.string.app_name));
         // siteUrl是分享此内容的网站地址，仅在QQ空间使用
 
-
         oks.setSiteUrl("http://sharesdk.cn");
 
 // 启动分享GUI
