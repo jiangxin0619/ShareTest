@@ -20,6 +20,9 @@ import cn.sharesdk.sina.weibo.SinaWeibo;
 import cn.sharesdk.tencent.qq.QQ;
 import m.framework.utils.UIHandler;
 
+/**
+ * xxj修改了
+ */
 
 public class MainActivity extends ActionBarActivity implements View.OnClickListener, PlatformActionListener {
 
